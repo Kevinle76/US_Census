@@ -15,4 +15,4 @@ In this activity, we will revisit the U.S. Census data and create DataFrames wit
 
 4. Rename any columns to reflect the data calculations.
 
-5. Export the resulting tables to CSVs. We will be using them again in our next class.
+5. Export the resulting tables to CSVs.
