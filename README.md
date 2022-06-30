@@ -1,7 +1,8 @@
 # Census_Pandas
+
 In this activity, we will revisit the U.S. Census data and create DataFrames with calculated totals and averages for each state by year.
 
-## Instructions
+## Analysic
 
 1. Read in the census CSV file with Pandas.
 
