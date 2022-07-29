@@ -10,6 +10,7 @@ In this activity, we will visit the U.S. Census data and create DataFrames with 
 
     * Totals for population, employed civilians, unemployed civilians, people in the military, and poverty count.
     
+![image](https://user-images.githubusercontent.com/100891182/181819679-f3e91815-170f-4a4d-abc9-c68b134975a6.png)
 
 
 
