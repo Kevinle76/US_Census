@@ -9,8 +9,13 @@ In this activity, we will visit the U.S. Census data and create DataFrames with 
 2. Create two new DataFrames, one to find totals and another to find averages. DataFrames should include:
 
     * Totals for population, employed civilians, unemployed civilians, people in the military, and poverty count.
+    
+    ![image](https://user-images.githubusercontent.com/100891182/181819506-18b13e29-cf70-45e1-bef2-2f895f1de528.png)
+
 
     * Averages for median age, household income, and per capita income.
+    
+    
 
 3. Create new DataFrames once the totals and averages have been grouped by each year and state.
 
