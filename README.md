@@ -1,4 +1,4 @@
-# Census_Pandas
+# US Census
 
 In this activity, we will visit the U.S. Census data and create DataFrames with calculated totals and averages for each state by year.
 
