@@ -10,10 +10,13 @@ In this activity, we will visit the U.S. Census data and create DataFrames with 
 
     * Totals for population, employed civilians, unemployed civilians, people in the military, and poverty count.
     
-    ![image](https://user-images.githubusercontent.com/100891182/181819506-18b13e29-cf70-45e1-bef2-2f895f1de528.png)
+
 
 
     * Averages for median age, household income, and per capita income.
+
+![image](https://user-images.githubusercontent.com/100891182/181819552-541da100-93e8-4a46-8b3c-51ae0a97eded.png)
+
     
     
 
