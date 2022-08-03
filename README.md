@@ -1,8 +1,10 @@
 # US Census
 
+## Background:
+
 In this activity, we will visit the U.S. Census data and create DataFrames with calculated totals and averages for each state by year.
 
-## Analysic
+## Objectives:
 
 1. Read CSV file with Pandas.
 
